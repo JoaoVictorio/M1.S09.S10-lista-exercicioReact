@@ -1,6 +1,6 @@
 function CardAdicionar() {
   return (
-  
+    <div>Card adicionar</div>
   )
 }
 
